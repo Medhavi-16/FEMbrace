@@ -1,0 +1,12 @@
+{
+  "name": "fembrace",
+  "displayName": "fembrace",
+  "expo": {
+    "name": "fembrace",
+    "slug": "fembrace",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
