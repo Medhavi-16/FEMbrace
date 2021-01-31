@@ -46,6 +46,11 @@ Like:&nbsp;
 _**'Which pad should I use?'**_ provides the statistics on using different sanitary napkins available in your country.
 By clicking on any brand, you can see the division about the most prominent reason a woman prefers that brand.
 You can also add your valuable vote.
+&nbsp;
+<img src="https://user-images.githubusercontent.com/43985601/104839881-1e5dfe00-58ea-11eb-8b64-b8201f31d323.png" width="400">
+<img src="https://user-images.githubusercontent.com/43985601/104840072-2c604e80-58eb-11eb-95da-f2b47335a1c8.png" width="400">
+&nbsp;
+
 * Women-specific diseases: This section is explicitly dedicated to only women's conditions or illnesses, which are quite prominent in women. 
 Like:&nbsp;
 
@@ -65,7 +70,8 @@ How?
 &nbsp;
 
 ### Chatbot: 
-You can use this feature when you feel low on confidence or when you don't actually want to talk to a person. You can make use of Tink, the chatbot. You can let Tink try to resolve your issue, which you can select from the list provided by Tink.
+You can use this feature when you feel low on confidence, or want to de-stress or when you don't actually want to talk to a person. You can make use of Tink, the chatbot. You can let Tink try to resolve your issue, which you can select from the list provided by Tink.
+<img src="https://user-images.githubusercontent.com/43985601/104840208-f66f9a00-58eb-11eb-9834-927518c0dd02.jpg" width="250" height="500">
 
 
 
@@ -77,6 +83,7 @@ We have a straightforward method for you to find and connect to other women. All
 
 The initial list shows you all the users; you can filter it based on whether they share any interest with you or have any specific interests.
 &nbsp;
+<img src="https://user-images.githubusercontent.com/43985601/104842884-bd382980-58ed-11eb-8e3a-9f76584eb656.png" width="400">
 * ### Find collaboration/work opportunities:
 While participating in hackathons, we realized that working with new people is an enlightening experience. Hackathons usually have channels to find team members. But what if you want someone to collaborate on music or a digital art project? This is one of the key inspirations behind this section.
 This section provides means for you to find your collaboration partners or help the women's community by posting about any job opportunity you know. 
