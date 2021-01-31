@@ -67,8 +67,6 @@ You can use this feature when you feel low on confidence or when you don't actua
 
 
 ## Networking section:
-![alt_text](https://user-images.githubusercontent.com/43985601/104843155-1d7b9b00-58ef-11eb-9aba-618187b53a98.jpg "Network")
-&nbsp;
 * ### Find people:
 This section is dedicated to connecting women.
 We have a straightforward method for you to find and connect to other women. All members add their interests during signup so you can connect with a user based on their interests.
@@ -82,13 +80,15 @@ Think of this as a more informal LinkedIn.
 Just add a posting here with the relevant tags. Any user interested will connect with you. 
 &nbsp;
 
-![alt_text](https://user-images.githubusercontent.com/43985601/104843144-13f23300-58ef-11eb-96d9-37b9f39cc854.png "Find collab")
+<img src="https://user-images.githubusercontent.com/43985601/104843144-13f23300-58ef-11eb-96d9-37b9f39cc854.png" width="400">
 &nbsp;
 
 By clicking on any avatar on both the screens, you can visit that person's profile, where their necessary details and social media handles will be available.
 By clicking on any list item, you can chat with that person.
+&nbsp;
 
-
+![alt_text](https://user-images.githubusercontent.com/43985601/104843254-ab578600-58ef-11eb-913c-00597212cdec.png "chat")
+&nbsp;
 
 ## Future scope:
 
