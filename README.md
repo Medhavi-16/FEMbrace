@@ -60,6 +60,10 @@ How?
 
 * For each message that you write, it would be tested for foul words. If found, your 'discredibility' score will increment by one; when it crosses 5, you will enter a read-only mode, where you would see the chats but not post any.
 &nbsp;
+
+<img src="https://user-images.githubusercontent.com/43985601/104840203-f40d4000-58eb-11eb-83e9-7093c1caec04.jpg" width="250" height="500">
+&nbsp;
+
 ### Chatbot: 
 You can use this feature when you feel low on confidence or when you don't actually want to talk to a person. You can make use of Tink, the chatbot. You can let Tink try to resolve your issue, which you can select from the list provided by Tink.
 
@@ -80,14 +84,14 @@ Think of this as a more informal LinkedIn.
 Just add a posting here with the relevant tags. Any user interested will connect with you. 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/43985601/104843144-13f23300-58ef-11eb-96d9-37b9f39cc854.png" width="400">
+<img src="https://user-images.githubusercontent.com/43985601/104843144-13f23300-58ef-11eb-96d9-37b9f39cc854.png" width="500">
 &nbsp;
 
 By clicking on any avatar on both the screens, you can visit that person's profile, where their necessary details and social media handles will be available.
 By clicking on any list item, you can chat with that person.
 &nbsp;
 
-![alt_text](https://user-images.githubusercontent.com/43985601/104843254-ab578600-58ef-11eb-913c-00597212cdec.png "chat")
+<img src="https://user-images.githubusercontent.com/43985601/104843254-ab578600-58ef-11eb-913c-00597212cdec.png" width="500">
 &nbsp;
 
 ## Future scope:
