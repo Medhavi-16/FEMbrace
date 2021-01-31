@@ -110,7 +110,7 @@ The initial list shows you all the users; you can filter it based on whether the
 <img src="https://user-images.githubusercontent.com/43985601/104842884-bd382980-58ed-11eb-8e3a-9f76584eb656.png" width="400">&nbsp;
 
 * ### Find collaboration/work opportunities:
-While participating in hackathons, we realized that working with new people is an enlightening experience. Hackathons usually have channels to find team members. But what if you want someone to collaborate on music or a digital art project? This is one of the key inspirations behind this section.
+While participating in hackathons, we realized that working with new people is an enlightening experience. Hackathons usually have channels to find team members. But what if you want someone to collaborate on music or a digital art projects, but not necessarily for a competition?  This is one of the key inspirations behind this section.
 This section provides means for you to find your collaboration partners or help the women's community by posting about any job opportunity you know. 
 Think of this as a more informal LinkedIn.
 Just add a posting here with the relevant tags. Any user interested will connect with you. 
