@@ -8,6 +8,9 @@ We researched and found that there are many apps for women, but they are limited
 FEMbrace is an app _**' for women, by women '**_.
 It is an amalgamation of various features to support and empower women to help the women's community in the most basic and effortless ways. It is a community that depends on the women being able to share their views on things that would benefit other women. 
 From finding a safe community to keeping up with your health, this app has got you covered. 
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/43985601/106380339-a1498300-63d7-11eb-9e65-092c4a2b7eea.jpeg" width="300" height="400">
 
 ## Challenges and how we overcame them
 Two of our team members had a background in mobile app development using React Native, and the other member had a web development background. We decided to go with a mobile app, but it became a little overwhelming for the third member to learn React Native in a short amount of time. Moreover, we came up with many features and had to filter them for the most relevant and do-able features. This cost us some time. But our past experiences in hackathons came in handy, and with teamwork, we were able to come up with a working app.
@@ -46,9 +49,15 @@ We are most proud of the number of features we were able to finish in just 24 ho
 
 
 ## Health and Lifestyle section:
-This section has data curated for women's health and lifestyle
+This section has data curated for women's health and lifestyle. &nbsp;
+
+<img src="https://user-images.githubusercontent.com/43985601/106380595-5c265080-63d9-11eb-8713-e511e831f131.jpg" width="250" height="500">&nbsp;
+
 * My periods' guide: This section answers women's most common problems and issues during menstruation.
 Like:&nbsp;
+
+<img src="https://user-images.githubusercontent.com/43985601/106380597-5f214100-63d9-11eb-9b5b-86d85c6e7886.jpg" width="250" height="500">&nbsp;
+
 
 _**'Which pad should I use?'**_ provides the statistics on using different sanitary napkins available in your country.
 By clicking on any brand, you can see the division about the most prominent reason a woman prefers that brand.
@@ -61,7 +70,12 @@ You can also add your valuable vote.
 * Women-specific diseases: This section is explicitly dedicated to only women's conditions or illnesses, which are quite prominent in women. 
 Like:&nbsp;
 
+<img src="https://user-images.githubusercontent.com/43985601/106380600-60eb0480-63d9-11eb-9b39-c612ad1231a0.jpg" width="250" height="500">&nbsp;
+
 _**'Breast Cancer'**_ section provides curated data on how to check yourself for breast cancer symptoms at home, find food, and exercise guidance to prevent and combat it.
+<img src="https://user-images.githubusercontent.com/43985601/106380599-5fb9d780-63d9-11eb-9bee-2aa7a3686d68.jpg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/43985601/106380601-621c3180-63d9-11eb-8047-8bbef683fab7.jpg" width="250" height="500">&nbsp;
+
 
 
 
