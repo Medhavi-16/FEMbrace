@@ -105,7 +105,9 @@ We have a straightforward method for you to find and connect to other women. All
 
 The initial list shows you all the users; you can filter it based on whether they share any interest with you or have any specific interests.
 &nbsp;
-<img src="https://user-images.githubusercontent.com/43985601/104842884-bd382980-58ed-11eb-8e3a-9f76584eb656.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/43985601/104842884-bd382980-58ed-11eb-8e3a-9f76584eb656.png" width="400">&nbsp;
+
 * ### Find collaboration/work opportunities:
 While participating in hackathons, we realized that working with new people is an enlightening experience. Hackathons usually have channels to find team members. But what if you want someone to collaborate on music or a digital art project? This is one of the key inspirations behind this section.
 This section provides means for you to find your collaboration partners or help the women's community by posting about any job opportunity you know. 
