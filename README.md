@@ -21,17 +21,24 @@ We are most proud of the number of features we were able to finish in just 24 ho
 
 
 ## Homepage:
+<img src="https://user-images.githubusercontent.com/43985601/104596193-b31ded00-5699-11eb-9c80-c9bae5e95da5.jpg" width="250" height="500">&nbsp;
 
 * Profile gist: By clicking the profile avatar, you can visit your complete profile. 
+<img src="https://user-images.githubusercontent.com/43985601/104596232-be711880-5699-11eb-96a4-5a9a147b9d7b.jpg" width="250" height="500">
 &nbsp;
 
 * Podcasts: You can find a list of all women-centric podcasts that provide thoughtful discussion and inspiration.&nbsp;
+<img src="https://user-images.githubusercontent.com/43985601/104596223-bb762800-5699-11eb-8f38-9427cc03319a.jpg" width="250" height="500">&nbsp;
 
 * Find Toilets: The following pictures clearly portray the conditions of public toilets/restrooms. What kind of effects bad hygiene has on a woman is also shown next to it. So one would refrain from using such a toilet if she somehow knows about its conditions. This is the inspiration behind our next feature. 
 ![alt text](https://user-images.githubusercontent.com/43985601/104839399-d8ec0180-58e6-11eb-9c2e-ede50b2ac74b.png "Hygiene Effects") &nbsp;
-     * By clicking on 'find toilets,' you can see toilets near you on a map. By clicking on any marker, you can see the toilet's details, rating, comments, and answers to the most relevant questions about its condition. Other users of this app give all these reviews and remarks. You can also find a route to a particular toilet by clicking on the directions button.&nbsp;
+     * By clicking on **'Find toilets'**, you can see toilets near you on a map. By clicking on any marker, you can see the toilet's details, rating, comments, and answers to the most relevant questions about its condition. Other users of this app give all these reviews and remarks. You can also find a route to a particular toilet by clicking on the directions button.&nbsp;
+     <img src="https://user-images.githubusercontent.com/43985601/104839646-68de7b00-58e8-11eb-9753-b6bc9dd5d124.png" width="400">
+     &nbsp;
      
-* In case of any emergency, you can see police stations and women support centers near you.&nbsp;
+* In case of any emergency, you can see police stations and women support centers near you.
+<img src="https://user-images.githubusercontent.com/43985601/104596237-bf09af00-5699-11eb-8130-39dd3dc206d0.jpg" width="250" height="500">
+&nbsp;
 
 * The week's topic: This section will display infographics about different useful issues for women.
 
