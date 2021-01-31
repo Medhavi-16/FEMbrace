@@ -72,7 +72,8 @@ Like:&nbsp;
 
 <img src="https://user-images.githubusercontent.com/43985601/106380600-60eb0480-63d9-11eb-9b39-c612ad1231a0.jpg" width="250" height="500">&nbsp;
 
-_**'Breast Cancer'**_ section provides curated data on how to check yourself for breast cancer symptoms at home, find food, and exercise guidance to prevent and combat it.
+_**'Breast Cancer'**_ section provides curated data on how to check yourself for breast cancer symptoms at home, find food, and exercise guidance to prevent and combat it.&nbsp;
+
 <img src="https://user-images.githubusercontent.com/43985601/106380599-5fb9d780-63d9-11eb-9bee-2aa7a3686d68.jpg" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/43985601/106380601-621c3180-63d9-11eb-8047-8bbef683fab7.jpg" width="250" height="500">&nbsp;
 
